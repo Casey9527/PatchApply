@@ -7,5 +7,5 @@ execution result of patch command. If there is an error, you can abort it. Other
 
 # Usage
 ``` shell
-sh patchApply.sh path/to/patches
+sh patchApply.sh path/to/folder_containing_many_patches
 ```
